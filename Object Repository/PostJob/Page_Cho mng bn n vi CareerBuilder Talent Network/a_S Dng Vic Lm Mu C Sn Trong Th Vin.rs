@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_S Dng Vic Lm Mu C Sn Trong Th Vin</name>
+   <tag></tag>
+   <elementGuidId>c0116a17-83db-4140-8dda-51a888299ec4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link_create</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmCreateJob']/div/div/div[5]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e61c2038-a160-43d3-9e93-addcf25fd8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link_create</value>
+      <webElementGuid>225bbfae-c815-4f53-90f7-be927cfb2866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>47dc579f-d908-4a7c-95d6-2ecf220d6bee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sử Dụng Việc Làm Mẫu Có Sẵn Trong Thư Viện</value>
+      <webElementGuid>e7041b5e-3326-4dfc-a139-931188f0a6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmCreateJob&quot;)/div[@class=&quot;form&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;fl_left width_570 popbox&quot;]/a[@class=&quot;link_create&quot;]</value>
+      <webElementGuid>018f98cf-543a-4782-8e99-88d5657597b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmCreateJob']/div/div/div[5]/div/a</value>
+      <webElementGuid>e1998b47-0c8b-42ef-b975-a9c9a28f37da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sử Dụng Việc Làm Mẫu Có Sẵn Trong Thư Viện')]</value>
+      <webElementGuid>74ada444-15e0-4407-a713-964965ae0a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông Tin Tuyển Dụng'])[1]/following::a[1]</value>
+      <webElementGuid>c857ff12-ff17-4de1-8a99-aeca68b27e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hân Nguyễn HR (han.nguyen@mail.careerbuilder.vn)'])[6]/following::a[1]</value>
+      <webElementGuid>aebeecb8-2525-4f02-9da2-4f6f7460ddb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã Công Việc'])[1]/preceding::a[1]</value>
+      <webElementGuid>659f5746-a50d-4e41-9305-a9a538b1693f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sử Dụng Việc Làm Mẫu Có Sẵn Trong Thư Viện']/parent::*</value>
+      <webElementGuid>6a0607ce-a944-4729-9b97-b9f04077ce67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[10]</value>
+      <webElementGuid>fd9423cf-0932-49d9-a177-e4b91eec66f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>569b36a3-cbf1-4b6c-91cc-4ce15144f32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Sử Dụng Việc Làm Mẫu Có Sẵn Trong Thư Viện' or . = 'Sử Dụng Việc Làm Mẫu Có Sẵn Trong Thư Viện')]</value>
+      <webElementGuid>aa624edd-a6ff-41cd-8bc5-a4d061c2059e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

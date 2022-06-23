@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thao Tc</name>
+   <tag></tag>
+   <elementGuidId>9eae9b6f-d720-46bc-a739-3f75a3641840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.action_control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[2]/div/div[2]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9cd966f6-0b60-45e9-9e66-35baaf4a658f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action_control</value>
+      <webElementGuid>ed199982-da8b-4125-bd10-928cac6aecc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thao Tác</value>
+      <webElementGuid>22c769b0-6c79-4f74-8084-4b3c02e760a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;RightPanel&quot;]/div[@class=&quot;ShowData tabstyle2 cb-createRequisition&quot;]/div[@class=&quot;containerData&quot;]/div[@class=&quot;detail_w_tab&quot;]/div[@class=&quot;funcAction&quot;]/label[1]/span[@class=&quot;action_control&quot;]</value>
+      <webElementGuid>4fa54fa4-edd4-442e-bdd3-e3a7f9fa6410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[2]/div/div[2]/div/div/label/span</value>
+      <webElementGuid>54da9eda-a594-4711-8766-0461904df910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lý Tuyển Dụng > Xem Chi Tiết'])[1]/following::span[1]</value>
+      <webElementGuid>3149c66a-aa27-4139-9e30-e62d31a89d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(469)'])[1]/following::span[1]</value>
+      <webElementGuid>bbadb93f-e649-4577-8902-f98f230d168a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng tuyển'])[1]/preceding::span[1]</value>
+      <webElementGuid>53c974f9-206d-410a-9b64-75c7ef7acbf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sao chép'])[1]/preceding::span[1]</value>
+      <webElementGuid>dae889bf-1477-4169-916f-0c57f756cea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thao Tác']/parent::*</value>
+      <webElementGuid>5916a3ef-95a1-4db7-8edc-c9a194376071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>6fe48cce-687e-45a5-87eb-fff2458cfb7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Thao Tác' or . = 'Thao Tác')]</value>
+      <webElementGuid>9443e911-544f-475d-a30f-0e4e9537b967</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

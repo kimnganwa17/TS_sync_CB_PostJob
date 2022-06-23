@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input_ng tuyn dng trong 30 ngy_c_pack",
+      "brokenLocator": "//input[@id\u003d\u0027c_pack_2338804_1000_3468197\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//dd[8]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input_ng tuyn dng trong 30 ngy_c_pack_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input_Ch ng_btnconfirm",
+      "brokenLocator": "//input[@id\u003d\u0027btnOrderConfirm\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input_Ch ng_btnconfirm_position.png"
+    }
+  ]
+}
