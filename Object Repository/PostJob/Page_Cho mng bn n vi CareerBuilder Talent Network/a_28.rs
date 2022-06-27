@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Thao Tc</name>
+   <name>a_28</name>
    <tag></tag>
-   <elementGuidId>76c4ee36-7ca3-454f-abf2-f89a3d580958</elementGuidId>
+   <elementGuidId>a3027424-db7c-45ab-8432-a91869ca2a3c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='main-content']/div[2]/div/div[2]/div/div/label/span</value>
+         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[5]/td[3]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.action_control</value>
+         <value>a.ui-state-default.ui-state-hover</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>7b438eb3-812f-4492-8bf4-e1972172a539</webElementGuid>
+      <value>a</value>
+      <webElementGuid>b4506d2e-10a1-4942-a517-567720df7272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>action_control</value>
-      <webElementGuid>e8ac0b65-3d49-4b29-aa7d-9b953e79021b</webElementGuid>
+      <value>ui-state-default ui-state-hover</value>
+      <webElementGuid>a2ad7470-7477-47d4-8b67-f5957471c2c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>4d182308-422e-4362-8eee-be8941430570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Thao Tác</value>
-      <webElementGuid>115214b7-8e9f-4457-8523-7569d15acbfe</webElementGuid>
+      <value>28</value>
+      <webElementGuid>2bfccb10-fbc8-4f8e-bf03-fc0dcf0bf644</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main-content&quot;)/div[@class=&quot;RightPanel&quot;]/div[@class=&quot;ShowData tabstyle2 cb-createRequisition&quot;]/div[@class=&quot;containerData&quot;]/div[@class=&quot;detail_w_tab&quot;]/div[@class=&quot;funcAction&quot;]/label[1]/span[@class=&quot;action_control&quot;]</value>
-      <webElementGuid>745d0cf6-0bab-4b46-bb7f-ccb39588ed6a</webElementGuid>
+      <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]/tbody[1]/tr[5]/td[@class=&quot;&quot;]/a[@class=&quot;ui-state-default ui-state-hover&quot;]</value>
+      <webElementGuid>8b134466-7dc1-42de-bc6c-f5085eaab249</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='main-content']/div[2]/div/div[2]/div/div/label/span</value>
-      <webElementGuid>e9b9008a-8a6d-4193-8fdf-163ef2e85c4d</webElementGuid>
+      <value>//div[@id='ui-datepicker-div']/table/tbody/tr[5]/td[3]/a</value>
+      <webElementGuid>e546f839-2805-4df4-9915-3f2fb96628ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'28')]</value>
+      <webElementGuid>a05073bd-f0f0-4dcb-b5bd-574c72dc7f47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lý Tuyển Dụng > Xem Chi Tiết'])[1]/following::span[1]</value>
-      <webElementGuid>f17b2a98-2e17-4077-b730-5739e51012bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::a[2]</value>
+      <webElementGuid>251a26e1-8ebb-45d3-8601-20a04e7b05ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(495)'])[1]/following::span[1]</value>
-      <webElementGuid>d4f6072e-8d7d-4a7e-ab0a-9e7f2bb1ad2a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::a[2]</value>
+      <webElementGuid>4b1cfedc-8a68-4610-aeab-7d59962af99c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng tuyển'])[1]/preceding::span[1]</value>
-      <webElementGuid>064716ff-1293-418c-9a9d-810edf62113a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='28']/parent::*</value>
+      <webElementGuid>d0138692-e369-41a7-9d6f-1f6949fb0da7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sao chép'])[1]/preceding::span[1]</value>
-      <webElementGuid>782fe1f8-4792-4a0f-86ad-5fe9aebe3206</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Thao Tác']/parent::*</value>
-      <webElementGuid>19da5a5e-c1c5-461f-bd14-972d1bcf7279</webElementGuid>
+      <value>(//a[contains(@href, '#')])[15]</value>
+      <webElementGuid>d484c79a-0cbb-4169-bd80-bc82edc6d553</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label/span</value>
-      <webElementGuid>e81a8dbf-6e66-44a2-a1ce-c0a1bcc41e5a</webElementGuid>
+      <value>//td[3]/a</value>
+      <webElementGuid>ef74e1fa-f52d-4e59-b6e1-227bba6693ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Thao Tác' or . = 'Thao Tác')]</value>
-      <webElementGuid>3926ccd9-9b24-44a7-92b8-489415de40c8</webElementGuid>
+      <value>//a[@href = '#' and (text() = '28' or . = '28')]</value>
+      <webElementGuid>41a1185c-b950-46e6-9297-963980156242</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

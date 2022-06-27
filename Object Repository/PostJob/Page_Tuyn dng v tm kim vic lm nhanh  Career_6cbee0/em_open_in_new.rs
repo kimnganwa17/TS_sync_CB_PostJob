@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_open_in_new</name>
+   <tag></tag>
+   <elementGuidId>3e3976ed-2087-4bb2-88d5-c01f3948c202</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Test1'])[1]/following::em[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.jobs-new-tab > em.material-icons</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>853c6ec6-9354-4850-9aab-b0f21c43680b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>a1fcbeb8-7896-4e6c-a3fc-29aafeaaa4b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>open_in_new</value>
+      <webElementGuid>7566bbf6-0ce3-4968-a964-a4fc7f50458e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/section[@class=&quot;manage-job-posting-active-jobs cb-section bg-manage&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;box-manage-job-posting&quot;]/div[@class=&quot;main-tabslet&quot;]/div[@class=&quot;tabslet-content active&quot;]/div[@class=&quot;main-jobs-posting&quot;]/div[@class=&quot;boding-jobs-posting&quot;]/div[@class=&quot;table table-jobs-posting&quot;]/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;title&quot;]/a[@class=&quot;jobs-new-tab&quot;]/em[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>249f7c03-e846-4d85-9f6c-27a659830f98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test1'])[1]/following::em[1]</value>
+      <webElementGuid>a3c38d00-d901-457b-a6cd-1d1914d7f879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thao tác'])[1]/following::em[1]</value>
+      <webElementGuid>188d84b6-9cd9-4f9e-9685-34a57a09c441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ngành nghề:'])[1]/preceding::em[1]</value>
+      <webElementGuid>1e2ddc62-0099-4d00-bbd0-d7e32af10367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa điểm:'])[1]/preceding::em[1]</value>
+      <webElementGuid>2604da8d-564d-4eaf-be57-f53e570b9b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='open_in_new']/parent::*</value>
+      <webElementGuid>7e89bc09-e6d6-4ed8-a1bf-25df6a50b9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/em</value>
+      <webElementGuid>5259dd39-61ef-4a67-9a9c-514db1e17296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'open_in_new' or . = 'open_in_new')]</value>
+      <webElementGuid>f4f27587-8649-4d9e-80df-46cae1d9cb33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

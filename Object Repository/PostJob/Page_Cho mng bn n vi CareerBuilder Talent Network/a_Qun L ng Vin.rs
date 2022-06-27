@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Qun L Tuyn Dng</name>
+   <name>a_Qun L ng Vin</name>
    <tag></tag>
-   <elementGuidId>22eb0941-563b-48f3-86da-d8d7dd73779e</elementGuidId>
+   <elementGuidId>381678f2-41f0-428c-bb6f-e12ac476204f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Quản Lý Tuyển Dụng')])[3]</value>
+         <value>(//a[contains(text(),'Quản Lý Ứng Viên')])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li.dropdown.dropdown.open > a.dropdown-toggle.disabled</value>
+         <value>li.dropdown.open > a.dropdown-toggle.disabled</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5c5faf4c-9a7f-4e6c-82cd-bd6af826ea3a</webElementGuid>
+      <webElementGuid>f87fddca-84d9-46ec-aee8-1c690f20cb85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>54f87f93-d83e-42b7-bfd8-55df3863ff58</webElementGuid>
+      <webElementGuid>f303ea7a-1652-4a42-8257-db202e3c6451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>ebe1f1d5-2fc4-4797-8a19-7bac2262b387</webElementGuid>
+      <webElementGuid>37a7d6d6-7c89-4c46-9fe8-b0b3c0a3527c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,94 +46,94 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-toggle disabled</value>
-      <webElementGuid>4d780ac8-f1d6-4515-ad16-6e8a22daa840</webElementGuid>
+      <webElementGuid>e6f3f649-fc0f-4271-98a4-dd7199c3c668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://demo.talentnetwork.vn/vi/admin/requisition</value>
-      <webElementGuid>41fdab38-5689-4d50-8b9f-847f4314bae5</webElementGuid>
+      <value>https://demo.talentnetwork.vn/vi/admin/resume?filter=expand</value>
+      <webElementGuid>793c9d49-271e-4c22-8c60-65ee6a77857e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Quản Lý Tuyển Dụng </value>
-      <webElementGuid>a408b02d-ca11-4179-b2bc-82026e8bec18</webElementGuid>
+      <value>Quản Lý Ứng Viên </value>
+      <webElementGuid>d66ce3f6-e033-4d92-9897-58ea45d019e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;coreCompany&quot;]/nav[@class=&quot;navbar navbar-default ats-nav&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown  dropdown open&quot;]/a[@class=&quot;dropdown-toggle disabled&quot;]</value>
-      <webElementGuid>b82f3060-cf57-4715-99b2-c30d346fd5cc</webElementGuid>
+      <value>/html[1]/body[@class=&quot;coreCompany bgcolorbody&quot;]/nav[@class=&quot;navbar navbar-default ats-nav&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/a[@class=&quot;dropdown-toggle disabled&quot;]</value>
+      <webElementGuid>39a4d4e8-be28-4ec8-a347-1fc4989d65b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>(//a[contains(text(),'Quản Lý Tuyển Dụng')])[3]</value>
-      <webElementGuid>500f4fe1-9648-43b3-a8da-6b68636610ae</webElementGuid>
+      <value>(//a[contains(text(),'Quản Lý Ứng Viên')])[2]</value>
+      <webElementGuid>751dc2ba-b02d-4abb-899a-09e28b1be071</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Việc Làm'])[1]/following::a[2]</value>
-      <webElementGuid>82623d15-65fd-4de1-9b9b-0b35e6fcdd63</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lý Đăng Tuyển'])[2]/following::a[1]</value>
+      <webElementGuid>c59a996a-01f1-4211-8468-85eb16ec15c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thành Viên'])[1]/following::a[3]</value>
-      <webElementGuid>def7a1f4-d860-4fe1-939b-34a685985931</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lý Tuyển Dụng'])[4]/following::a[2]</value>
+      <webElementGuid>b6bf396d-8e54-425b-a3e5-5e08aa6ff2ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lập Đề Xuất Tuyển Dụng'])[2]/preceding::a[1]</value>
-      <webElementGuid>bc62ff27-cfb8-4e84-8b7f-1f092f6c118e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng Viên Mới'])[2]/preceding::a[1]</value>
+      <webElementGuid>be4d7d65-2b37-431a-96a6-a231c7072a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản Lý Tuyển Dụng'])[4]/preceding::a[2]</value>
-      <webElementGuid>88f6dc97-ee57-4924-9e7f-d606baf5d8a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng Viên Đang Xử Lý'])[2]/preceding::a[2]</value>
+      <webElementGuid>ec50fa10-9021-43a0-8627-5da0694b701c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'https://demo.talentnetwork.vn/vi/admin/requisition')])[4]</value>
-      <webElementGuid>f676bc69-0a0f-4e9c-b1fd-5b0d10d57bdc</webElementGuid>
+      <value>(//a[contains(@href, 'https://demo.talentnetwork.vn/vi/admin/resume?filter=expand')])[3]</value>
+      <webElementGuid>3c0990d6-217c-43ea-916f-694ce9934141</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//nav/div/div/ul/li[2]/a</value>
-      <webElementGuid>001d1680-1c04-4c3f-8d86-9d91f53f2590</webElementGuid>
+      <value>//nav/div/div/ul/li[3]/a</value>
+      <webElementGuid>a322dea0-29ac-4fcb-b934-760a5288aecd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://demo.talentnetwork.vn/vi/admin/requisition' and (text() = 'Quản Lý Tuyển Dụng ' or . = 'Quản Lý Tuyển Dụng ')]</value>
-      <webElementGuid>440de365-c8b3-495f-8796-be8916f2b59a</webElementGuid>
+      <value>//a[@href = 'https://demo.talentnetwork.vn/vi/admin/resume?filter=expand' and (text() = 'Quản Lý Ứng Viên ' or . = 'Quản Lý Ứng Viên ')]</value>
+      <webElementGuid>5da0953a-5291-48af-9746-be3d7d1191ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

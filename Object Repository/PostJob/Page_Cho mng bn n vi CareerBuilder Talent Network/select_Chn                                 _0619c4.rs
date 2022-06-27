@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Chn                                 _0619c4</name>
    <tag></tag>
-   <elementGuidId>6ecd64dc-d29b-447e-a312-44022e2ce16a</elementGuidId>
+   <elementGuidId>6b9287f9-a384-4166-89e7-45dfa979d7fa</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#reason_vacancy</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='reason_vacancy']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#reason_vacancy</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>9bd84c1b-d732-4866-b07f-7fc7f1fd92be</webElementGuid>
+      <webElementGuid>742a482b-7f99-4228-9977-a838dbd27700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>reason_vacancy</value>
-      <webElementGuid>ade92cb7-ce94-40f0-87a9-73582926b269</webElementGuid>
+      <webElementGuid>6235defd-44d1-4eb4-9f62-3eff0ff97450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>reason_vacancy</value>
-      <webElementGuid>29f1a5b4-4950-4a90-b1de-dfa1be4c9fbe</webElementGuid>
+      <webElementGuid>64ef5de9-62e1-446e-99ea-6066f76192ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select_long required error</value>
-      <webElementGuid>7366570c-27d6-4623-8171-2e79a82f4b13</webElementGuid>
+      <webElementGuid>0ccbc8b0-9689-476c-91e9-0a834c8921ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@ Tuyển thay thế
 Khác
 
                                                                                                                     </value>
-      <webElementGuid>2a799b7a-c552-4f0e-a583-f579f3a77090</webElementGuid>
+      <webElementGuid>7f545f37-5de8-4fa6-b88c-6782211aa68c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@ Khác
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;reason_vacancy&quot;)</value>
-      <webElementGuid>4294004d-4309-4d9b-be67-ee728c40e01c</webElementGuid>
+      <webElementGuid>7d70e1d8-b59d-4e5d-b5c8-7e2dde82f915</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@ Khác
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='reason_vacancy']</value>
-      <webElementGuid>db30b4fc-0fee-490e-856c-4608af7ca3b5</webElementGuid>
+      <webElementGuid>cb120fc5-11fd-46f4-81e0-acaf1e73a217</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@ Khác
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmCreateJob']/div/div/div[21]/div/select</value>
-      <webElementGuid>1243ec55-97b0-47d1-9dfc-501a5a3fd057</webElementGuid>
+      <webElementGuid>8ca069ac-8a10-4199-9d00-adc7e086c08f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@ Khác
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[15]/following::select[1]</value>
-      <webElementGuid>606e843c-e732-437a-a93b-f097ea2af96f</webElementGuid>
+      <webElementGuid>ebce35e6-5710-42e4-9c63-ed1266e938ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@ Khác
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin bắt buộc'])[3]/preceding::select[1]</value>
-      <webElementGuid>deafacfa-cf04-4262-9bdd-7559ee40c259</webElementGuid>
+      <webElementGuid>05d1ad85-2028-4e67-8a80-dd89d4d81e6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@ Khác
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhân Viên Thay Thế'])[1]/preceding::select[1]</value>
-      <webElementGuid>02454c93-878a-4fff-b68e-2bdfedcb1ad0</webElementGuid>
+      <webElementGuid>7aa9ae6a-8e88-40cd-911d-1555ee1174bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@ Khác
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[21]/div/select</value>
-      <webElementGuid>9cba3001-a1b2-4607-9870-fd31ddaf9a73</webElementGuid>
+      <webElementGuid>2c52b249-4f61-4753-ac54-86a77e58d380</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,6 +136,6 @@ Tuyển thay thế
 Khác
 
                                                                                                                     ')]</value>
-      <webElementGuid>37cc4058-5116-40e5-915d-77b981e91d8f</webElementGuid>
+      <webElementGuid>0eaaaa1f-7aa1-4a69-b51e-d6353ea7525a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

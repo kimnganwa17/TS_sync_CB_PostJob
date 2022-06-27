@@ -3,15 +3,15 @@
    <description></description>
    <name>select_To Mu Tuyn Dng                      _fad656</name>
    <tag></tag>
-   <elementGuidId>69b4575f-a3d9-494a-8e1f-969d660d63d7</elementGuidId>
+   <elementGuidId>6ce4e2a4-e18f-4c89-b6f2-530afafa38d4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#sample_job</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='sample_job']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sample_job</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>272d5a34-e8b7-4c2e-b256-3f23b6456bd6</webElementGuid>
+      <webElementGuid>ec15b281-7b33-4d70-9c40-f73d3efd1668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>width_170 createFolder</value>
-      <webElementGuid>1f3a7829-fd5e-4b70-b5a2-4a3f5f604f6d</webElementGuid>
+      <webElementGuid>15a442bf-c1da-4463-b552-e66b5b049e04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>sample_job</value>
-      <webElementGuid>30961d1a-814a-4f70-8518-3f9ae810e8dc</webElementGuid>
+      <webElementGuid>9d452d02-151f-4eeb-8d95-e8285aa17a13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sample_job</value>
-      <webElementGuid>3d1257ad-458a-43c1-8fb5-3c95388d58f7</webElementGuid>
+      <webElementGuid>981d26a9-9cd5-468e-8037-7976853ee1c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
                                                                                                                                                                                                                                                                                                  Kế Toán Trưởng (3375)
                                                                                                                                                                                                                                                                                                  Account Executive - Template 205 (3376)
                                                                                                                                                                                                                                                                                  </value>
-      <webElementGuid>48967db5-0d49-491d-a9fd-6d81c6c9989d</webElementGuid>
+      <webElementGuid>e8b31b0b-5e90-417a-8fbb-8a0b3b858e3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sample_job&quot;)</value>
-      <webElementGuid>c302c4b1-b76b-47eb-8356-eaefa48c3ca0</webElementGuid>
+      <webElementGuid>b1602e7a-27d5-4a22-ace3-5c5d800410d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='sample_job']</value>
-      <webElementGuid>1fc22ad3-ac36-4481-a3d0-89a826f5b05e</webElementGuid>
+      <webElementGuid>213a91b7-c16a-42a8-8623-8f9387c629f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmCreateJob']/div/div/div[5]/div/div/div[2]/select</value>
-      <webElementGuid>dd01138d-878c-4301-a2fd-12ae53b50b2d</webElementGuid>
+      <webElementGuid>fa90717a-766f-4ea2-9952-59f3da0e8e69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sử Dụng Việc Làm Mẫu Có Sẵn Trong Thư Viện'])[1]/following::select[1]</value>
-      <webElementGuid>02d388b5-9c40-4bc2-8ae0-9130c4a5f870</webElementGuid>
+      <webElementGuid>d3c0b92d-df51-4e8c-a1e0-ad41f2826bb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông Tin Tuyển Dụng'])[1]/following::select[1]</value>
-      <webElementGuid>25f9550f-b886-4ea5-bb1b-e4bf03db3ab9</webElementGuid>
+      <webElementGuid>20c5b5b6-8da3-43a6-9207-a1d9495d3d8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã Công Việc'])[1]/preceding::select[1]</value>
-      <webElementGuid>ba9ae350-fd51-4bc2-b25b-9542d2e05d97</webElementGuid>
+      <webElementGuid>46fcadb9-696e-435a-878a-ee2a10db79f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>17da2954-2f8f-43a3-aee4-a484d2187614</webElementGuid>
+      <webElementGuid>46eafca0-a057-4181-8619-32dbe3598221</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
                                                                                                                                                                                                                                                                                                  Kế Toán Trưởng (3375)
                                                                                                                                                                                                                                                                                                  Account Executive - Template 205 (3376)
                                                                                                                                                                                                                                                                                  ')]</value>
-      <webElementGuid>ea746e1b-9f93-4ee5-bfed-e7bea205159c</webElementGuid>
+      <webElementGuid>ef4cc7d5-3339-4438-a9ed-802d7d55a423</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

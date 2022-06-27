@@ -19,6 +19,56 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input_Ch ng_btnconfirm_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostJob/Page_Talent Solution Admin/a_Employers",
+      "brokenLocator": "//li[@id\u003d\u0027yui-gen1\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Employers\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostJob/Page_Talent Solution Admin/a_Employers_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/span_Thao Tc",
+      "brokenLocator": "//div[@id\u003d\u0027main-content\u0027]/div[2]/div/div[2]/div/div/label/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sao chép\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/span_Thao Tc_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_ng tuyn",
+      "brokenLocator": "//div[@id\u003d\u0027main-content\u0027]/div[2]/div/div[2]/div/div/div/ul/li/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Thao Tác\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostJob/Page_Tuyn dng v tm kim vic lm nhanh  Career_6cbee0/a_Account Executive",
+      "brokenLocator": "//a[contains(text(),\u0027Account Executive\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Thao tác\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostJob/Page_Tuyn dng v tm kim vic lm nhanh  Career_6cbee0/a_Account Executive_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/PostJob_R2/Page_Cho mng bn n vi CareerBuilder Talent Network/input_ng tuyn dng trong 30 ngy_c_pack",
+      "brokenLocator": "//input[@id\u003d\u0027c_pack_2338804_1000_3468185\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//dd[8]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/PostJob_R2/Page_Cho mng bn n vi CareerBuilder Talent Network/input_ng tuyn dng trong 30 ngy_c_pack_position.png"
     }
   ]
 }

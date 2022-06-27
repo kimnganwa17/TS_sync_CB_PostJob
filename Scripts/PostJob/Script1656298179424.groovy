@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://admin.talentnetwork.vn/login')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/PostJob/Page_Talent Solution Admin Tools/input__user'), 'qchannguyen')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PostJob/Page_Talent Solution Admin Tools/input__pwd'), '4aUHZLRHJF4=')
@@ -38,9 +40,9 @@ WebUI.click(findTestObject('Object Repository/PostJob/Page_Talent Solution Admin
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Talent Solution Admin/a_Login'))
 
-WebUI.switchToWindowTitle('Chào mừng bạn đến với CareerBuilder Talent Network')
+WebUI.switchToWindowIndex('1')
 
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/span_FAQ_fa fa-bars'))
+WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_Qun L Tuyn Dng'))
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_Lp  Xut Tuyn Dng'))
 
@@ -50,19 +52,21 @@ WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi Caree
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_S Dng Vic Lm Mu C Sn Trong Th Vin'))
 
+'Account Executive - Template 205 (3376);Kế Toán Trưởng (3375);Test1 (2513);e-Commerce Executive (1526);Roadshow Manager (1525);IT Project Manager (484);Finance Manager (483);Account Executive (461)'
 WebUI.selectOptionByValue(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/select_To Mu Tuyn Dng                      _fad656'), 
-    '461', true)
+    '2513', true)
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input_S Dng Vic Lm Mu C Sn Trong Th Vin_btn_9a003c'))
 
+'Chưa có kinh nghiệm-0;Có kinh nghiệm-1;Không yêu cầu kinh nghiệm-2'
+WebUI.selectOptionByValue(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/select_Chn                                 _5bfc2e'), 
+    '0', true)
+
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input__requiredate'))
 
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/span_Prev'))
+WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_5'))
 
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/span_Next'))
-
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_25'))
-
+'Tuyển mới-1;Tuyển thay thế-2;Khác'
 WebUI.selectOptionByValue(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/select_Chn                                 _0619c4'), 
     '1', true)
 
@@ -70,11 +74,12 @@ WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi Caree
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/span_Thao Tc'))
 
+'/html/body/div[4]/div/div[2]/div/div[2]/div/div[1]/label/span'
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_ng tuyn'))
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input__job_expiredate'))
 
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_26'))
+WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_28'))
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/input_Talent Network_post_cb'))
 
@@ -88,17 +93,15 @@ WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi Caree
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_Thng Bo_fancybox-close'))
 
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/span_FAQ_fa fa-bars'))
+WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_'))
 
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_ng nhp CB.vn'))
+WebUI.click(findTestObject('PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/a_ - Copy'))
 
-WebUI.switchToWindowTitle('Tuyển dụng và tìm kiếm việc làm nhanh | CareerBuilder.vn')
-
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Tuyn dng v tm kim vic lm nhanh  Career_6cbee0/p_Danh Mc'))
+WebUI.switchToWindowIndex('2')
 
 WebUI.click(findTestObject('Object Repository/PostJob/Page_Tuyn dng v tm kim vic lm nhanh  Career_6cbee0/a_Qun L ng Tuyn'))
 
-WebUI.click(findTestObject('Object Repository/PostJob/Page_Tuyn dng v tm kim vic lm nhanh  Career_6cbee0/a_Account Executive'))
+WebUI.click(findTestObject('Object Repository/PostJob/Page_Tuyn dng v tm kim vic lm nhanh  Career_6cbee0/em_open_in_new'))
 
 WebUI.closeBrowser()
 

@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Thng Bo_fancybox-close</name>
    <tag></tag>
-   <elementGuidId>6c5c0b9f-0a96-400c-99a6-c341a88461ba</elementGuidId>
+   <elementGuidId>506be6b8-de37-4655-9b58-64a32f64c7f1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#fancybox-close</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='fancybox-close']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fancybox-close</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2247b17b-b486-4079-86d4-203d2cdbad96</webElementGuid>
+      <webElementGuid>da2b8816-e1ea-4c1e-8f85-ae6578430fd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>fancybox-close</value>
-      <webElementGuid>5209af1b-ed09-4220-8c1c-b869c78d560d</webElementGuid>
+      <webElementGuid>39bd0c53-cdd6-4708-a3d1-b52ce1166881</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;fancybox-close&quot;)</value>
-      <webElementGuid>eff9e06f-1915-4cc2-835f-71f098e7ba29</webElementGuid>
+      <webElementGuid>aaafd1bb-b01a-4c15-a53c-2f1884f1238e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='fancybox-close']</value>
-      <webElementGuid>598ec0d3-fd2c-4015-aa6b-b1458a9f4591</webElementGuid>
+      <webElementGuid>d7737ff8-1479-48be-aef3-a304ee7a64a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='fancybox-outer']/a</value>
-      <webElementGuid>021fd252-5a08-4cd8-a9b1-d14f3c7788a1</webElementGuid>
+      <webElementGuid>038fcc7e-c607-42c8-8dae-311153886f49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[15]/div/a</value>
-      <webElementGuid>78e29754-8f93-41e5-8b44-a62a2cc84a61</webElementGuid>
+      <webElementGuid>480b47ae-7f96-4301-94b6-f92dec04190d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'fancybox-close']</value>
-      <webElementGuid>2d4b5dd7-5d69-4846-8694-423dc33b4bf6</webElementGuid>
+      <webElementGuid>f5447ce4-4e12-4947-b232-315ba7de2378</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Chn Hnh nh_btnSubmit</name>
    <tag></tag>
-   <elementGuidId>691c2a1b-32da-4801-8aac-01a6b0956fc2</elementGuidId>
+   <elementGuidId>a5f23832-fe7b-4a6d-9473-71ab9b199f06</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#btnSubmit</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='btnSubmit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnSubmit</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fab5538c-d898-47b7-a018-be0a121697d7</webElementGuid>
+      <webElementGuid>48197ff9-9e8f-4f65-9b2d-eeab9a284b79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>3c47f827-3ea5-4844-9e49-d6c71c8bd07e</webElementGuid>
+      <webElementGuid>85714fc1-259e-423f-9c85-0dcd80287285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnSubmit</value>
-      <webElementGuid>09cdfaf2-a866-41da-84d7-04d37ed5b8aa</webElementGuid>
+      <webElementGuid>7d53a42a-bb06-4674-9f61-fd1bb9c145c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui_btnCb</value>
-      <webElementGuid>15b88711-9064-400b-89d0-559f328d9dbd</webElementGuid>
+      <webElementGuid>b89649ed-46b3-45ce-9450-5f14bc54d036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Lưu và Tiếp Tục</value>
-      <webElementGuid>dfa78886-21be-4044-9ef2-fe749f66666a</webElementGuid>
+      <webElementGuid>2864a78d-5939-472c-9e2d-27948f4cb705</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnSubmit&quot;)</value>
-      <webElementGuid>ec26dcdc-41ad-4ca3-8e22-fa7555cc459a</webElementGuid>
+      <webElementGuid>012c1820-8eea-428f-bb1a-679328dbe743</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='btnSubmit']</value>
-      <webElementGuid>d914718b-418a-4e76-a537-cd13c36494ff</webElementGuid>
+      <webElementGuid>997af7cd-3e2d-4078-b1c5-670e8a067052</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmCreateJob']/div/div[2]/input[3]</value>
-      <webElementGuid>c5d58c24-cb7b-4d00-ace4-fff966d37b05</webElementGuid>
+      <webElementGuid>f614c2d8-d5ed-4d49-9dff-b33ecc6f12a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>351c4e1b-16f7-4993-b6e2-56dd97864997</webElementGuid>
+      <webElementGuid>e667865f-2459-4cfb-8e06-9d802d104094</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @id = 'btnSubmit']</value>
-      <webElementGuid>93620005-d377-46ef-a85b-2734aad22298</webElementGuid>
+      <webElementGuid>4a5ca315-c909-494d-9308-c8ddf16658b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

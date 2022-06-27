@@ -3,15 +3,15 @@
    <description></description>
    <name>input_S Dng Vic Lm Mu C Sn Trong Th Vin_btn_9a003c</name>
    <tag></tag>
-   <elementGuidId>5ffd9407-20f0-4e96-9dce-ba5772bd155f</elementGuidId>
+   <elementGuidId>d801ca40-d8f5-400d-bc70-682932f867e5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;btnSaveJoblib&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@name='btnSaveJoblib']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;btnSaveJoblib&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9d0883b1-584c-4ffd-aca7-6e0bcc9fd300</webElementGuid>
+      <webElementGuid>5fdaab48-9e6f-4e5c-90fc-a350c3e2d2fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bb73be62-a83d-4b47-917a-5bf8e54323c1</webElementGuid>
+      <webElementGuid>76443a90-37bc-4972-92d7-986bfd40f587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>btnSaveJoblib</value>
-      <webElementGuid>a64a201a-1763-49c6-a3dd-5497f0a8b6c0</webElementGuid>
+      <webElementGuid>ff47df07-6171-45c0-a3ad-6b0e7a2c983d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Chọn</value>
-      <webElementGuid>0b73f324-e17c-4bfb-bed4-e1952bd991d6</webElementGuid>
+      <webElementGuid>7205996a-86c4-416d-b7ca-e55ab74fa0fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui_btnCb btnSmall mar_left5</value>
-      <webElementGuid>ff6ab6cb-dfc3-4d6a-880d-48fe99e5db43</webElementGuid>
+      <webElementGuid>5d4464e4-bd9f-44d0-bb32-07e0c570803a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>chooseJobLibrary();</value>
-      <webElementGuid>7f5c929c-6e2a-42c0-9698-9d9a394755e3</webElementGuid>
+      <webElementGuid>7da36d35-3b8f-470c-ba29-47996c433e2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frmCreateJob&quot;)/div[@class=&quot;form&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;fl_left width_570 popbox&quot;]/div[@class=&quot;themetips JobLibrary DataGot&quot;]/div[@class=&quot;row&quot;]/input[@class=&quot;ui_btnCb btnSmall mar_left5&quot;]</value>
-      <webElementGuid>b23fb3c1-5e38-491c-a19d-84bae862c4b1</webElementGuid>
+      <webElementGuid>1ee1a47f-1e01-4b27-b45c-a428a31e8c55</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='btnSaveJoblib']</value>
-      <webElementGuid>5e98974c-0d8f-4cf9-b255-5859daea866c</webElementGuid>
+      <webElementGuid>16b0a859-8790-4adf-886f-207bf79b821b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmCreateJob']/div/div/div[5]/div/div/div[2]/input</value>
-      <webElementGuid>06aa6426-b04c-46c2-a12d-a1ced1a38a27</webElementGuid>
+      <webElementGuid>da128f54-d4a5-44ea-914a-883950f8623a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/input</value>
-      <webElementGuid>aae9908d-2c56-446b-ae87-6f0fa947ee67</webElementGuid>
+      <webElementGuid>448577dd-502d-485b-ac7f-36d96b4bcfe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @name = 'btnSaveJoblib']</value>
-      <webElementGuid>edcc0257-c964-4558-b1b7-bfab2445beb9</webElementGuid>
+      <webElementGuid>a5a40c00-44df-4495-93f8-2651aa2ec428</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

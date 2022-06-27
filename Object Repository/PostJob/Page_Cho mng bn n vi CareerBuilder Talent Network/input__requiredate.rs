@@ -3,15 +3,15 @@
    <description></description>
    <name>input__requiredate</name>
    <tag></tag>
-   <elementGuidId>356c3f3e-f461-4bdd-bad3-3ea8485965e7</elementGuidId>
+   <elementGuidId>45d415bf-b2c9-4ca8-ab47-941bb0d07432</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#requiredate</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='requiredate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#requiredate</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>51a546ad-8a44-42b8-bc6f-7ea4ed63f3bd</webElementGuid>
+      <webElementGuid>d21ca3f0-6a8d-4c40-8e09-f57cec456382</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>requiredate</value>
-      <webElementGuid>e8815ab6-30f7-4b82-9ec4-ec07377dfcbb</webElementGuid>
+      <webElementGuid>98895c01-ded1-4acc-8c9d-1b6b86f840d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>requiredate</value>
-      <webElementGuid>d41d4ba9-3980-4a94-bf3f-91fdbdec8cae</webElementGuid>
+      <webElementGuid>c5bc2ab3-2312-4bb1-8908-c89949fef36e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>date_month required hasDatepicker error</value>
-      <webElementGuid>3d14bcfb-f5cd-4218-9f79-e3bb680640a1</webElementGuid>
+      <webElementGuid>8d4a4822-0cbf-4a54-b858-8ce9920546ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;requiredate&quot;)</value>
-      <webElementGuid>fa5a3584-502d-489d-b41c-62ce831fcec0</webElementGuid>
+      <webElementGuid>0e8f8e03-9040-49fa-a1d5-9f735edf4c56</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='requiredate']</value>
-      <webElementGuid>cd49252c-8988-42a8-b751-3217aea21a04</webElementGuid>
+      <webElementGuid>73083533-0d32-4b95-b072-a287e2b80a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmCreateJob']/div/div/div[20]/fieldset/div[4]/div/input</value>
-      <webElementGuid>ffd193a9-2606-4e87-b3e1-bfe50f05b9c1</webElementGuid>
+      <webElementGuid>2992122d-2354-4c41-931a-2e29e02b758c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/input</value>
-      <webElementGuid>cecef9fc-7c9e-4681-9408-3ff3a796d42b</webElementGuid>
+      <webElementGuid>198a1dad-de1e-418e-b537-ca4708155a3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'requiredate' and @id = 'requiredate']</value>
-      <webElementGuid>8e66a572-2f2e-47fe-ab93-3a2b45f5370c</webElementGuid>
+      <webElementGuid>ce39588a-4ac5-45ca-b8ab-30036da09664</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

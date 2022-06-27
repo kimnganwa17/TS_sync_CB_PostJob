@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Next</name>
    <tag></tag>
-   <elementGuidId>e62db2b6-22d2-4c42-b055-89a726513ca3</elementGuidId>
+   <elementGuidId>aac797ac-7124-4301-a992-634240a570f1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.ui-icon.ui-icon-circle-triangle-e</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='ui-datepicker-div']/div/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-icon.ui-icon-circle-triangle-e</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>859dafd8-1408-4947-8e07-164be47fa85a</webElementGuid>
+      <webElementGuid>0f6e11d2-c2ab-45d0-a2fd-308d6b7c96a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-icon ui-icon-circle-triangle-e</value>
-      <webElementGuid>7746459f-1201-4cc5-b850-dbfc6afb00dc</webElementGuid>
+      <webElementGuid>4e66b4ac-9cd7-4c5d-b3e9-139dbb3f3004</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>1bc0725d-f645-49e9-af3e-dcd7d3c69c16</webElementGuid>
+      <webElementGuid>ba6438a0-a98f-4143-8a53-c7a19d72b1c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all&quot;]/a[@class=&quot;ui-datepicker-next ui-corner-all ui-state-hover ui-datepicker-next-hover&quot;]/span[@class=&quot;ui-icon ui-icon-circle-triangle-e&quot;]</value>
-      <webElementGuid>aa6e6abd-c017-4082-b111-9549be7553c3</webElementGuid>
+      <webElementGuid>eb74b852-c5ac-4d94-8088-dde8abcbb5ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-datepicker-div']/div/a[2]/span</value>
-      <webElementGuid>d8c88a15-cf6c-4a5e-8354-0300007d177a</webElementGuid>
+      <webElementGuid>a9eaa0e0-cf6b-4b75-b4f4-d92061227955</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::span[1]</value>
-      <webElementGuid>9a3b36ae-1be6-445e-be80-80ff9773e24b</webElementGuid>
+      <webElementGuid>c4cf32b4-82e0-46c9-b951-3271c9917c12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to leave this page?'])[1]/following::span[2]</value>
-      <webElementGuid>36730e8e-73d9-428d-9206-e9a5155a2efc</webElementGuid>
+      <webElementGuid>e6c2ecfc-c783-41d8-bbd6-8c9b1ccfeef1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='May'])[1]/preceding::span[1]</value>
-      <webElementGuid>564c02ef-759f-4c25-a7ac-d5f41551a07b</webElementGuid>
+      <webElementGuid>a0dda525-4fea-468f-8282-23c472c28b0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::span[2]</value>
-      <webElementGuid>ad94033e-2b4c-41f6-90a5-66febf2fbab5</webElementGuid>
+      <webElementGuid>dc11f15e-4746-4bac-9bb4-7054ed64407d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>434a154b-444f-46b0-ac01-02f8cb75a740</webElementGuid>
+      <webElementGuid>480e672a-07c5-4e9d-9bb2-8ef437bdc53e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/a[2]/span</value>
-      <webElementGuid>ec1c5ad8-f9e0-4d30-91c3-5f8ff3bab50a</webElementGuid>
+      <webElementGuid>33cd2f3c-8247-4c41-888e-3fb561baa2aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>62878bb0-ef96-4ee4-acc9-5adea33ea0b4</webElementGuid>
+      <webElementGuid>f03dddcf-db69-4d0d-ba5d-1a16b0a10c06</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

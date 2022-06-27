@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__job_expiredate</name>
+   <name>input_T_experience_from</name>
    <tag></tag>
-   <elementGuidId>46d35d48-ca36-42e3-991b-ee1ce50fb55b</elementGuidId>
+   <elementGuidId>74f5e75a-392f-4f9a-b3e3-2ce053b21453</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='job_expiredate']</value>
+         <value>//input[@id='experience_from']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#job_expiredate</value>
+         <value>#experience_from</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5fe6b0ed-7f5a-476a-aea4-a78e32d84a83</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>job_expiredate</value>
-      <webElementGuid>8c38be86-ede9-481d-b73e-43a149d5b391</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>job_expiredate</value>
-      <webElementGuid>3a976fb1-5d6f-463f-9daf-1a2799b1e4a6</webElementGuid>
+      <webElementGuid>5bcc1d53-5215-4b10-88fd-68ab0cb51bc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>date_month hasDatepicker</value>
-      <webElementGuid>3b0b5526-ca20-404f-98f2-0454d0744e9b</webElementGuid>
+      <value>txt_experience input_short numeric_only</value>
+      <webElementGuid>61afe9df-f5a1-431b-9f19-5903ccf2b33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>experience_from</value>
+      <webElementGuid>d728cb76-44b4-4b96-a0c0-57243e882505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>experience_from</value>
+      <webElementGuid>81f6a6ec-1e3b-4eea-b511-564cc56cfbfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>292d4e48-e688-4a8f-9c2c-0f71700212c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;job_expiredate&quot;)</value>
-      <webElementGuid>50dfefe2-d436-4bd7-827f-aa87fc945243</webElementGuid>
+      <value>id(&quot;experience_from&quot;)</value>
+      <webElementGuid>9bca0588-919d-4100-9b12-d00affef83f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='job_expiredate']</value>
-      <webElementGuid>8a8f896b-2fba-4f96-84d5-3323e29482bb</webElementGuid>
+      <value>//input[@id='experience_from']</value>
+      <webElementGuid>5cd7e430-90e3-48ed-a5f8-8ea5aab91878</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frmPostJob']/div/div[2]/div/div/input</value>
-      <webElementGuid>ce315e03-1fe0-44ec-9a9b-9edc6be72e15</webElementGuid>
+      <value>//form[@id='frmCreateJob']/div/div/div[11]/div/div/input</value>
+      <webElementGuid>4b441eb5-097d-464d-b0b9-45f3373b229d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/div[2]/div/div/input</value>
-      <webElementGuid>7a44c3d9-29b4-4196-9981-8e04feb92d7e</webElementGuid>
+      <value>//div[11]/div/div/input</value>
+      <webElementGuid>4796a7ab-1338-4b99-8570-d7c6d1aa2875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'job_expiredate' and @id = 'job_expiredate']</value>
-      <webElementGuid>7fa6a362-4b6a-45ff-9657-4f826e24437c</webElementGuid>
+      <value>//input[@id = 'experience_from' and @name = 'experience_from']</value>
+      <webElementGuid>0b2d4d2f-135e-4fcd-b69c-f178a39c2a8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

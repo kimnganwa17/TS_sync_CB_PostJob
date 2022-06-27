@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Talent Network_post_cb</name>
    <tag></tag>
-   <elementGuidId>ed15bd1f-aaee-4ec9-89d7-1d10e52f4b62</elementGuidId>
+   <elementGuidId>6eea4274-d246-4caf-bdd3-e0f482eb8439</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#post_cb</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='post_cb']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#post_cb</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>75aa72c6-dcdc-43c8-99b5-d23378a73616</webElementGuid>
+      <webElementGuid>d42e691c-c16f-42e1-bc20-15b3483e4b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>44eafcec-b8e4-44ae-85d7-9d65ac3f7088</webElementGuid>
+      <webElementGuid>7e5e2a6c-a30d-4f64-8fb4-fe84133d74e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>post_cb</value>
-      <webElementGuid>ed10f9bf-fc15-426b-b513-199e1a83e333</webElementGuid>
+      <webElementGuid>db7c3298-15ea-44c1-b271-695f3bcb01e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>post_cb</value>
-      <webElementGuid>dd36e101-6eb0-459a-9da5-c4b6c9dd87d5</webElementGuid>
+      <webElementGuid>a64f9573-e07f-4b76-ba43-d4a68d63cbc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ispublic</value>
-      <webElementGuid>37b5e9f3-124b-4ae7-bf73-8136dfef1aac</webElementGuid>
+      <webElementGuid>86d58605-affd-460b-a372-db5859d07438</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>c28876e6-e56b-4fc3-ba72-5383870ad34e</webElementGuid>
+      <webElementGuid>d501c520-a772-4e6f-a5ce-ee3570026723</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;post_cb&quot;)</value>
-      <webElementGuid>eb0d7e18-3f7c-4113-860f-60806d81e87b</webElementGuid>
+      <webElementGuid>7df7e840-a5ae-4181-9b62-a135e1f1d9a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='post_cb']</value>
-      <webElementGuid>bdeff73a-49ee-4934-aca8-501621c44b1a</webElementGuid>
+      <webElementGuid>c446fa21-197b-4a77-a433-814070a1b3b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='chk_post_cb']/span/label/input</value>
-      <webElementGuid>da8517cf-c193-4aea-848a-bc05fe3dbe2b</webElementGuid>
+      <webElementGuid>b7507b9e-f356-4007-82e5-90b7009bf535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div[2]/span/label/input</value>
-      <webElementGuid>96e92ad4-baf2-4a36-a3e2-2bcba3aeea7d</webElementGuid>
+      <webElementGuid>a6c95a82-1665-4296-8961-438faca1318a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'post_cb' and @id = 'post_cb']</value>
-      <webElementGuid>415452e4-8cf8-4db2-8da0-8f3f4e73ba3f</webElementGuid>
+      <webElementGuid>117a31da-37a1-4e4e-ae3d-397fa9cbc04a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

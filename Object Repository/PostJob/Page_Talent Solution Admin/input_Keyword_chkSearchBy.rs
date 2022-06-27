@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Keyword_chkSearchBy</name>
    <tag></tag>
-   <elementGuidId>b3e7e881-63e2-40f5-8a1c-acd633baccf4</elementGuidId>
+   <elementGuidId>db436e89-d5d0-4ec4-9a82-1e341205dc0f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//input[@name='chkSearchBy'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0270c546-fe1d-4588-8984-c45acee5fc08</webElementGuid>
+      <webElementGuid>8813fc5d-0a69-4e71-be8f-91037578477d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>ab5abd9f-fc8d-48eb-8de0-21a3c0d0787d</webElementGuid>
+      <webElementGuid>f475bf8b-a1e5-47b3-a536-fbe74622a196</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>chkSearchBy</value>
-      <webElementGuid>966533d8-536f-49a2-857c-c89c09bcf845</webElementGuid>
+      <webElementGuid>99c1ad34-e0f8-4efd-8657-761dc6ea3432</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>0b0fd613-1a94-4ce6-ba32-8484fb25a990</webElementGuid>
+      <webElementGuid>88f4a846-a231-415b-bb0d-58c54d920a96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>javascript:choiceOption(this.value)</value>
-      <webElementGuid>c8223668-4f27-4d8c-aa2b-96fd44586159</webElementGuid>
+      <webElementGuid>f0aa8909-7f3a-4534-b1a0-f4e9b5dac03f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tab3&quot;)/form[1]/table[1]/tbody[1]/tr[1]/td[3]/input[1]</value>
-      <webElementGuid>5c65e225-b890-40ab-9d48-c1ee6155e5d1</webElementGuid>
+      <webElementGuid>a27f86a1-19c0-42e2-b4a8-91d0e0f8c2ec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='chkSearchBy'])[2]</value>
-      <webElementGuid>d6a278ae-4c5e-4137-bec5-70d384da109f</webElementGuid>
+      <webElementGuid>c0c3c995-6099-4b45-a1ef-5120ba437eaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tab3']/form/table/tbody/tr/td[3]/input</value>
-      <webElementGuid>2c9fbdd4-2c5c-4255-84f3-737403f31de1</webElementGuid>
+      <webElementGuid>ee768563-21bc-4310-81ed-2cddc5ea1092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/input</value>
-      <webElementGuid>586abfe2-a67b-4a9d-a5dd-1f2e7b740e7b</webElementGuid>
+      <webElementGuid>992ea3f1-6a3b-4a5d-becd-c9432bfad3b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'chkSearchBy']</value>
-      <webElementGuid>69155a78-3d0d-434f-ba1a-713d9f3f5e1b</webElementGuid>
+      <webElementGuid>4961903a-8e4b-43f5-b32f-ba5181f194b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

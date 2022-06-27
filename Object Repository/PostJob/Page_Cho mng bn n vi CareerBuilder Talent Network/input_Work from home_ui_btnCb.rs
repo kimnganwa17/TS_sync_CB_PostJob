@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Work from home_ui_btnCb</name>
    <tag></tag>
-   <elementGuidId>57a80c1e-3af9-4f18-82ef-32175cd4b43b</elementGuidId>
+   <elementGuidId>d36d63f7-1443-40df-a255-ab7219c4fa40</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#frmPostJob > div.form > div.row > input.ui_btnCb</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@value='Submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#frmPostJob > div.form > div.row > input.ui_btnCb</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ad9d20ce-6ffa-447a-9678-c53eab686483</webElementGuid>
+      <webElementGuid>8fe75f9d-3515-4db6-ae73-071b4d0f9be1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cbaafd72-2d9c-44d9-9805-59d68acc26c9</webElementGuid>
+      <webElementGuid>35328f0b-39f2-4d7b-8a30-b5893bf1b6e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Submit</value>
-      <webElementGuid>08a29096-4a09-423a-b6d7-192f8f51ae3d</webElementGuid>
+      <webElementGuid>f29ef38d-94bf-41b5-85b9-e75a00c76f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>ui_btnCb</value>
-      <webElementGuid>e6f9f2dc-116a-4549-87ba-d776ed257be2</webElementGuid>
+      <webElementGuid>d406107a-2e01-4172-9dce-f3fcccdd9892</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>actionPostTab(275912, 0)</value>
-      <webElementGuid>ecd22dd9-1e9c-4866-964d-17492e259a93</webElementGuid>
+      <value>actionPostTab(276289, 0)</value>
+      <webElementGuid>0008ed0f-ff08-4f44-950a-dcc346e1d409</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frmPostJob&quot;)/div[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/input[@class=&quot;ui_btnCb&quot;]</value>
-      <webElementGuid>9e725883-2e0e-4d20-b8d0-96c354ab0e43</webElementGuid>
+      <webElementGuid>cd48c0ed-ec40-43b6-97e5-b5df6a317424</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Submit']</value>
-      <webElementGuid>235a6ab4-a48e-436d-b8cd-40c412816056</webElementGuid>
+      <webElementGuid>1eb09b07-3abf-4d5c-855e-cbb7a54e930c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmPostJob']/div/div[11]/input</value>
-      <webElementGuid>1cba8fa5-e12c-48de-9b21-14eb820435b5</webElementGuid>
+      <webElementGuid>467d5a85-6c14-4551-84bc-895e1fe6a8a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/input</value>
-      <webElementGuid>2edf6c83-54cd-46c8-99b2-845cbfff5d2c</webElementGuid>
+      <webElementGuid>895e8725-479f-44d9-80e4-cd0ec36e2f54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button']</value>
-      <webElementGuid>5f3b2d73-1ab5-44be-8abd-db69d901b750</webElementGuid>
+      <webElementGuid>c633e3c1-11c9-4c81-8bd3-eeece54cb748</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

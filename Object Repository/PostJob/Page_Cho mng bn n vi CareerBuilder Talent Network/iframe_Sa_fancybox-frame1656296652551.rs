@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>iframe_Sa_fancybox-frame1655968287229</name>
+   <name>iframe_Sa_fancybox-frame1656296652551</name>
    <tag></tag>
-   <elementGuidId>da12def8-740e-48e5-99c3-32c852af1b26</elementGuidId>
+   <elementGuidId>46e05e73-8771-4b81-a7fb-ace1474951f7</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#fancybox-frame</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//iframe[@id='fancybox-frame']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fancybox-frame</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>53f9286c-0a89-43b6-bb1c-aae8da5eaa21</webElementGuid>
+      <webElementGuid>5beeab04-6d15-471b-aa18-4ca1ebe30fb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>id</name>
       <type>Main</type>
       <value>fancybox-frame</value>
-      <webElementGuid>06a3b759-bd33-4dcd-a561-02910a9b9fe5</webElementGuid>
+      <webElementGuid>d227b1c5-bca2-4e89-aae0-0a453e096d52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>fancybox-frame1655968287229</value>
-      <webElementGuid>e3cd9b95-55c1-4a78-96ee-e50e4303a987</webElementGuid>
+      <value>fancybox-frame1656296652551</value>
+      <webElementGuid>ee3dc06f-1837-4905-9a28-067779d300ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>frameborder</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e466f2c2-9e83-4d90-9a63-59c768886277</webElementGuid>
+      <webElementGuid>34bd13b6-cc66-45c3-9ad1-8d0eef95469f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>hspace</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>45418f9b-8b3e-4823-861c-7e85c01276dd</webElementGuid>
+      <webElementGuid>8d52e588-0956-4eda-8258-ceea41700b13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>scrolling</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>aa2ff2f9-c85f-4cc5-9fea-3a6ee37470fb</webElementGuid>
+      <webElementGuid>4ba6bf84-d417-49ef-81fd-87405792eb2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://careerbuilder.vn/vi/employers/hrcentral/ordertn?TID=QVBJX1RTX1RyYW5zYWN0aW9uVUlfMjMwNjIwMjJfMTY1MTJfMjc1OTEy</value>
-      <webElementGuid>c38f6da9-b674-44ee-bd00-9ecf9880bbef</webElementGuid>
+      <value>https://careerbuilder.vn/vi/employers/hrcentral/ordertn?TID=QVBJX1RTX1RyYW5zYWN0aW9uVUlfMjcwNjIwMjJfMTY1MTJfMjc2Mjg5</value>
+      <webElementGuid>8ffea289-16c3-43a8-b037-20b6e9b1e08b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;fancybox-frame&quot;)</value>
-      <webElementGuid>3b1e6fff-f314-40f3-a849-d36b51aa6c47</webElementGuid>
+      <webElementGuid>483922fd-82e9-4d3b-b0e1-43782c7e11c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='fancybox-frame']</value>
-      <webElementGuid>22086116-c8f9-4c1c-8dd7-21ada82e5204</webElementGuid>
+      <webElementGuid>228327af-23da-4728-bebc-0fd31455621f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='fancybox-content']/iframe</value>
-      <webElementGuid>f55127af-a748-4c45-bbf2-08a42bae59c1</webElementGuid>
+      <webElementGuid>b0fbd2e3-a26b-48c9-b079-943bb92e0c29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +102,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/iframe</value>
-      <webElementGuid>37ccf827-5ef4-441f-8bc0-b0adbe828be5</webElementGuid>
+      <webElementGuid>652475e6-9a7e-4659-8f3f-33ad68b017a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//iframe[@id = 'fancybox-frame' and @name = 'fancybox-frame1655968287229' and @src = 'https://careerbuilder.vn/vi/employers/hrcentral/ordertn?TID=QVBJX1RTX1RyYW5zYWN0aW9uVUlfMjMwNjIwMjJfMTY1MTJfMjc1OTEy']</value>
-      <webElementGuid>589eb9c3-691e-43ba-b08d-42391644e884</webElementGuid>
+      <value>//iframe[@id = 'fancybox-frame' and @name = 'fancybox-frame1656296652551' and @src = 'https://careerbuilder.vn/vi/employers/hrcentral/ordertn?TID=QVBJX1RTX1RyYW5zYWN0aW9uVUlfMjcwNjIwMjJfMTY1MTJfMjc2Mjg5']</value>
+      <webElementGuid>4dbdde91-cf85-45b2-bff4-721f4be6bc6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

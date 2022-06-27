@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Login</name>
    <tag></tag>
-   <elementGuidId>888974ba-1eba-4945-8a26-1e43c81a43c9</elementGuidId>
+   <elementGuidId>40e44112-d43f-4c06-8808-b2eadf55967b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='result1']/table/tbody/tr[5]/td[5]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fa0dd26c-d74d-4919-90f7-d793beccf9cd</webElementGuid>
+      <webElementGuid>2edf1482-32f8-4bc0-8bf4-66c5502e9d69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0)</value>
-      <webElementGuid>1643569f-3a95-4af3-8b48-72087143227b</webElementGuid>
+      <webElementGuid>d64da8f4-5af2-4fb5-a1f5-bb023a487d75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>owner</name>
       <type>Main</type>
       <value>demo</value>
-      <webElementGuid>112ebc30-ac2f-4f46-99d3-e7ed245b820e</webElementGuid>
+      <webElementGuid>6f1dcf63-5903-4f16-8c02-4944986b2ef3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loginLink</value>
-      <webElementGuid>bab0f4a1-9db0-461b-b107-52eef1660ae6</webElementGuid>
+      <webElementGuid>7c05d67c-41ac-44ca-bfb6-98988eede6b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login </value>
-      <webElementGuid>e851d869-a32d-487c-af55-459ba30ce5e2</webElementGuid>
+      <webElementGuid>9fb52d06-a85f-4487-9d73-f34d9e56cf0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;result1&quot;)/table[@class=&quot;list&quot;]/tbody[1]/tr[@class=&quot;even&quot;]/td[5]/a[@class=&quot;loginLink&quot;]</value>
-      <webElementGuid>c4c1dc76-51a0-4881-8c9a-e760872ddbc1</webElementGuid>
+      <webElementGuid>8bc6e770-9809-49dc-8727-0389bbe89b85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='result1']/table/tbody/tr[5]/td[5]/a[2]</value>
-      <webElementGuid>9eb200c1-9b44-48c6-b297-c3ea8038ae38</webElementGuid>
+      <webElementGuid>4bea3fd2-8a66-4181-b80a-d5547fccba5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Login')])[4]</value>
-      <webElementGuid>bc77ca0c-37c9-4484-b427-ba6316e0b590</webElementGuid>
+      <webElementGuid>8bae13a6-f184-461d-91fa-56adbfb390c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0)')])[4]</value>
-      <webElementGuid>dc6b4c9a-a38a-4030-b029-6f36fab31ebe</webElementGuid>
+      <webElementGuid>0c9bc7c3-2537-428f-adaf-fd65efd3b72d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[5]/a[2]</value>
-      <webElementGuid>db204d11-8e0f-460d-a6e9-12444b059080</webElementGuid>
+      <webElementGuid>6f366a85-4022-494b-871d-7889945a0e81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0)' and (text() = 'Login ' or . = 'Login ')]</value>
-      <webElementGuid>1d7ce598-5d04-493c-aed5-cae9a81fc183</webElementGuid>
+      <webElementGuid>2a619ddf-535d-4090-99c2-fb71b8931ab1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

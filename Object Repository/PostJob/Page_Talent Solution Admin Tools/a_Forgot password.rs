@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Chn</name>
+   <name>a_Forgot password</name>
    <tag></tag>
-   <elementGuidId>d9120080-bde1-4ecb-8511-396745a265c8</elementGuidId>
+   <elementGuidId>3d0f6f42-fbc6-4b5b-8976-7d3834eebf10</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='frmCreateJob']/div/div/div/div/div/a/span</value>
+         <value>//div[@id='login_container']/div[5]/div/form/p[3]/span/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.chosen-single > span</value>
+         <value>a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>6c70e5be-7b45-4cea-b839-f6347c7f9475</webElementGuid>
+      <value>a</value>
+      <webElementGuid>88c7a8a7-4c3b-44b6-85bb-ec9f1e2156ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>c4b7cf3e-8c91-453b-8711-f8265dc3e778</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Chọn</value>
-      <webElementGuid>292da7a4-f43f-4b5a-81e9-6ab7d01a43b3</webElementGuid>
+      <value>Forgot password</value>
+      <webElementGuid>590d326c-9a64-4517-a24c-2a6dcb196c96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;frmCreateJob&quot;)/div[@class=&quot;form&quot;]/div[@class=&quot;clear&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;fl_left width_570&quot;]/div[@class=&quot;chosen-container chosen-container-single chosen-with-drop chosen-container-active&quot;]/a[@class=&quot;chosen-single&quot;]/span[1]</value>
-      <webElementGuid>350df7d4-6e18-4ae3-b2a3-f0f0f88c28d5</webElementGuid>
+      <value>id(&quot;login_container&quot;)/div[@class=&quot;login_cont&quot;]/div[@class=&quot;login_box&quot;]/form[1]/p[@class=&quot;pad&quot;]/span[1]/a[1]</value>
+      <webElementGuid>a1820acb-080b-41c8-ab83-ded32ce0b168</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='frmCreateJob']/div/div/div/div/div/a/span</value>
-      <webElementGuid>59211b4b-95fc-4be9-82da-8d8bdad8e0e0</webElementGuid>
+      <value>//div[@id='login_container']/div[5]/div/form/p[3]/span/a</value>
+      <webElementGuid>17dd168b-9fe5-400d-976e-0069782ddf8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Forgot password')]</value>
+      <webElementGuid>fc054c5c-394e-499a-baa8-3ec37fc350b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
-      <webElementGuid>84e1290f-8106-48a0-9e47-aa2ce9ffd4df</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Forgot password']/parent::*</value>
+      <webElementGuid>d8efc8e2-3ee6-44bd-9972-84645bfb4bb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn'])[3]/preceding::span[1]</value>
-      <webElementGuid>9d9bbc17-95aa-4620-92ce-49205bd27da2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin (linh.huynh@careerbuilder.vn)'])[2]/preceding::span[1]</value>
-      <webElementGuid>36a62139-040c-4253-ac3a-66c734154bd4</webElementGuid>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>66bbc2c1-2b21-495c-8c6e-b96907208ee2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/a/span</value>
-      <webElementGuid>da36c277-75cd-4548-97e0-00f6f9236734</webElementGuid>
+      <value>//a</value>
+      <webElementGuid>b3ed45b7-6878-496d-bbc4-ebe0c6ba70d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Chọn' or . = 'Chọn')]</value>
-      <webElementGuid>981464f4-e746-4663-afdc-324aa6eb4dff</webElementGuid>
+      <value>//a[@href = '#' and (text() = 'Forgot password' or . = 'Forgot password')]</value>
+      <webElementGuid>0e282f38-828c-41b2-b78c-d16040466874</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

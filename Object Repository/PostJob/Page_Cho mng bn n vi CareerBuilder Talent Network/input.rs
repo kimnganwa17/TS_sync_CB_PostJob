@@ -3,15 +3,15 @@
    <description></description>
    <name>input</name>
    <tag></tag>
-   <elementGuidId>41cde89e-0428-4603-9436-5aa6709169d8</elementGuidId>
+   <elementGuidId>e76903b4-8fa2-4748-9350-38695a512a1d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>input[type=&quot;button&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@value='Đăng Tuyển Dụng']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;button&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a561fe05-7779-4b9c-97a8-37fdf372afce</webElementGuid>
+      <webElementGuid>7df4012c-6829-4020-b3cd-7eb3a801d444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>abead685-ef64-4089-879e-23442f562716</webElementGuid>
+      <webElementGuid>58e334d3-d714-4374-a5f6-dbdec6373536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Đăng Tuyển Dụng</value>
-      <webElementGuid>937b2486-13a0-4cb5-afee-750868f35d05</webElementGuid>
+      <webElementGuid>bd09a0e9-9bcf-447b-b7f7-da73926fd985</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>is_Filter_Form();</value>
-      <webElementGuid>53340154-926a-4035-ab58-8ad0aa73187a</webElementGuid>
+      <webElementGuid>2b055a6a-5cad-4497-a050-580c62ca35d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frm&quot;)/div[@class=&quot;box_maincontent postOnline&quot;]/div[@class=&quot;clear SMTpostOnline&quot;]/div[@class=&quot;fl_left mar_right5 btnPostJob&quot;]/span[@class=&quot;btn_submit&quot;]/input[1]</value>
-      <webElementGuid>d878c38c-1b0b-4842-ac56-9e5bd75b27d2</webElementGuid>
+      <webElementGuid>d8b7a494-7a6c-41ba-9674-38e21079bbe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/iframe_Sa_fancybox-frame1655968287229</value>
-      <webElementGuid>1c5e1a58-d2c9-4390-9a3a-8200d4f76f75</webElementGuid>
+      <value>Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/iframe_Sa_fancybox-frame1656296652551</value>
+      <webElementGuid>1cd7aac7-5e3f-4ca0-bf6c-1d89a2d6cd65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Đăng Tuyển Dụng']</value>
-      <webElementGuid>985d9b14-778a-47a5-9191-131497a2e136</webElementGuid>
+      <webElementGuid>b0672652-9ab1-4cf3-b887-6f461147236b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frm']/div/div[4]/div/span/input</value>
-      <webElementGuid>25b65e7c-5b90-4a81-b91d-0d321057b44e</webElementGuid>
+      <webElementGuid>b217a7f4-cee0-4ab4-8351-f76c3a4d9d38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span/input</value>
-      <webElementGuid>a017cf88-ee98-4cb8-b4f1-7332228fef80</webElementGuid>
+      <webElementGuid>3304bfe5-e0cc-4283-924c-350ae198b2e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button']</value>
-      <webElementGuid>9d6de5bc-883a-4d61-8e0b-d27c4f8fd843</webElementGuid>
+      <webElementGuid>c40836a8-ea3d-4205-8114-2868b4f89448</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

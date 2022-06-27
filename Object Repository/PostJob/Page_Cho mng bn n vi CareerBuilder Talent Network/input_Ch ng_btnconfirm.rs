@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Ch ng_btnconfirm</name>
    <tag></tag>
-   <elementGuidId>cc712aa1-1d96-4b5a-bc53-3ac602dbacd0</elementGuidId>
+   <elementGuidId>e195bb18-2ba2-43b2-8364-5eaaf869dd5c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#btnOrderConfirm</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='btnOrderConfirm']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnOrderConfirm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9fab8917-b570-44ea-823e-e58d221713aa</webElementGuid>
+      <webElementGuid>c6552756-f5e6-4cc0-b3ae-a2b41425b4c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2469744d-c53e-405d-b267-444693ab9d9d</webElementGuid>
+      <webElementGuid>02d6caba-6c9c-453f-8cd4-6cdc427f1847</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>value</name>
       <type>Main</type>
       <value>XÁC NHẬN</value>
-      <webElementGuid>2a9c58a7-7562-42f8-ad87-abbf0dc342fc</webElementGuid>
+      <webElementGuid>a43db836-eeee-480c-ae35-f01aefc544ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>btnconfirm</value>
-      <webElementGuid>d80f4d5a-4995-4977-b55c-c9646265ab60</webElementGuid>
+      <webElementGuid>700d4e8a-d0b4-4085-b640-d4af1254d050</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnOrderConfirm</value>
-      <webElementGuid>17048ed7-50a0-4543-a5e4-bd026d5baf84</webElementGuid>
+      <webElementGuid>990c2958-c8ef-4ea3-a429-78c215b8e4a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnOrderConfirm&quot;)</value>
-      <webElementGuid>12d5f547-3de9-41fe-9dbf-363bfdd9b5d6</webElementGuid>
+      <webElementGuid>5b2714b0-7ec5-4270-a93e-2f935a4db8c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/iframe_Sa_fancybox-frame1655968287229</value>
-      <webElementGuid>498b8db9-c391-4520-b2cf-b02573594b79</webElementGuid>
+      <value>Object Repository/PostJob/Page_Cho mng bn n vi CareerBuilder Talent Network/iframe_Sa_fancybox-frame1656296652551</value>
+      <webElementGuid>ecd982b9-db64-4fe3-8a26-a0187ceae74b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='btnOrderConfirm']</value>
-      <webElementGuid>2a398537-b16d-4d35-b0a9-fdae3c5f4106</webElementGuid>
+      <webElementGuid>36ffbcb1-3caf-4516-9c1c-694cbf2fff64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmOrderConfirm']/div[2]/div[3]/ul/li/span/input</value>
-      <webElementGuid>f939588a-f119-4fe3-a84e-9b2effa50caf</webElementGuid>
+      <webElementGuid>8bb5de19-c6cb-43f9-9a25-e4aa13c61191</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>48431a06-2396-4281-80c0-5061adb50520</webElementGuid>
+      <webElementGuid>fad696d7-5d6c-4c16-8132-29c55f47e08c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'btnconfirm' and @id = 'btnOrderConfirm']</value>
-      <webElementGuid>6d38580e-09a3-485f-a5b8-b34b629739cb</webElementGuid>
+      <webElementGuid>4c70c20d-34c9-4566-b0f1-e3140c38a969</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
